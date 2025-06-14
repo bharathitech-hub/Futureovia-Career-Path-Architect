@@ -82,9 +82,345 @@ if st.button("🔍 Show My Career Path"):
         st.success("Here’s your personalized career path 👇")
 
         st.markdown("### 🎯 Recommended Roles Based on Your Skills")
-        st.write("- Data Analyst")
-        st.write("- Software Developer")
-        st.write("- Front-End Developer")
+# Python
+st.write("- Data Analyst")
+st.write("- Backend Developer")
+st.write("- Machine Learning Engineer")
+
+# Java
+st.write("- Backend Developer")
+st.write("- Android Developer")
+st.write("- Enterprise Application Engineer")
+
+# C
+st.write("- Embedded Systems Engineer")
+st.write("- Firmware Developer")
+st.write("- System Programmer")
+
+# C++
+st.write("- Game Developer")
+st.write("- Performance Engineer")
+st.write("- Systems Software Engineer")
+
+# JavaScript
+st.write("- Frontend Developer")
+st.write("- Full Stack Developer")
+st.write("- Web Application Developer")
+
+# TypeScript
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Go
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Ruby
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# R
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Kotlin
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# HTML
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# CSS
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Bootstrap
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Tailwind CSS
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# React
+st.write("- Frontend Developer")
+st.write("- React.js Developer")
+st.write("- Web UI Engineer")
+
+# Angular
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Vue.js
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Node.js
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Express.js
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# SQL
+st.write("- Data Analyst")
+st.write("- Database Developer")
+st.write("- BI Analyst")
+
+# MySQL
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# PostgreSQL
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# MongoDB
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Firebase
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Redis
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# SQLite
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# AWS
+st.write("- Cloud Engineer")
+st.write("- DevOps Engineer")
+st.write("- Solutions Architect")
+
+# Azure
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Google Cloud Platform (GCP)
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Docker
+st.write("- DevOps Engineer")
+st.write("- Cloud Infrastructure Engineer")
+st.write("- Containerization Specialist")
+
+# Kubernetes
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Jenkins
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Git
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# GitHub
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# CI/CD
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Pandas
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# NumPy
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Matplotlib
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Seaborn
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Scikit-learn
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# TensorFlow
+st.write("- Machine Learning Engineer")
+st.write("- Deep Learning Specialist")
+st.write("- AI Research Engineer")
+
+# Keras
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# OpenCV
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# NLP
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Transformers
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Excel
+st.write("- Data Analyst")
+st.write("- Reporting Analyst")
+st.write("- Operations Associate")
+
+# Power BI
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Tableau
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Google Data Studio
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# ETL Tools
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Flutter
+st.write("- Mobile App Developer")
+st.write("- Flutter Developer")
+st.write("- Cross-Platform App Developer")
+
+# React Native
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Swift
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Dart
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Android SDK
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Network Security
+st.write("- Cybersecurity Analyst")
+st.write("- Network Security Engineer")
+st.write("- SOC Analyst")
+
+# Ethical Hacking
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Penetration Testing
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Wireshark
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Metasploit
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Blockchain
+st.write("- Blockchain Developer")
+st.write("- Smart Contract Engineer")
+st.write("- Web3 Developer")
+
+# Web3
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Figma
+st.write("- UI/UX Designer")
+st.write("- Product Designer")
+st.write("- Interaction Designer")
+
+# REST APIs
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Agile
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Scrum
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Linux
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
+
+# Shell Scripting
+st.write("- Software Developer")
+st.write("- Full Stack Developer")
+st.write("- Technical Associate")
 
         st.markdown("### 🔧 Skill Gaps Identified")
         st.write("- Cloud Computing (AWS/GCP)")
