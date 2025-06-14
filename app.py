@@ -70,7 +70,17 @@ skills = st.multiselect(
         "Excel", "Power BI", "Tableau", "Google Data Studio", "ETL Tools",
         "Flutter", "React Native", "Swift", "Dart", "Android SDK",
         "Network Security", "Ethical Hacking", "Penetration Testing", "Wireshark", "Metasploit",
-        "Blockchain", "Web3", "Figma", "REST APIs", "Agile", "Scrum", "Linux", "Shell Scripting"
+        "Blockchain", "Web3", "Figma", "REST APIs", "Agile", "Scrum", "Linux", "Shell Scripting",
+          "Artificial Intelligence", "Machine Learning", "Deep Learning", "Natural Language Processing (NLP)",
+         "Computer Vision", "Large Language Models (LLMs)", "Prompt Engineering", "Generative AI",
+         "Recommendation Systems", "AI Ethics & Governance", "Amazon Web Services (AWS)", "Microsoft Azure",
+         "Google Cloud Platform (GCP)", "Serverless Architecture", "Cloud Monitoring (Prometheus, Grafana)",
+        "Cloud Networking", "Edge Computing", "Cloud Storage Solutions", "Cloud Security", "Docker", "Kubernetes",
+        "Terraform", "CI/CD Pipelines (GitHub Actions, GitLab CI/CD)", "Infrastructure as Code (IaC)", "Ansible",
+       "Jenkins", "GitOps", "ArgoCD", "DevSecOps", "Identity & Access Management (IAM)", "Penetration Testing",
+       "Zero Trust Architecture", "Threat Intelligence", "Secure Coding Practices", "Vulnerability Assessment",
+       "Red Teaming", "SOC Operations", "Blockchain Security", "Application Security"
+
     ]
 )
 
@@ -82,7 +92,7 @@ if st.button("🔍 Show My Career Path"):
         st.success("Here’s your personalized career path 👇")
 
         st.markdown("### 🎯 Recommended Roles Based on Your Skills")
-# Python
+        # Python
 st.write("- Data Analyst")
 st.write("- Backend Developer")
 st.write("- Machine Learning Engineer")
@@ -421,6 +431,201 @@ st.write("- Technical Associate")
 st.write("- Software Developer")
 st.write("- Full Stack Developer")
 st.write("- Technical Associate")
+# Artificial Intelligence
+st.write("- AI Engineer")
+st.write("- AI Product Analyst")
+st.write("- AI Solutions Architect")
+
+# Machine Learning
+st.write("- Machine Learning Engineer")
+st.write("- ML Ops Engineer")
+st.write("- Predictive Modeling Specialist")
+
+# Deep Learning
+st.write("- Deep Learning Engineer")
+st.write("- AI Researcher")
+st.write("- Computer Vision Specialist")
+
+# Natural Language Processing (NLP)
+st.write("- NLP Engineer")
+st.write("- Conversational AI Developer")
+st.write("- Text Analytics Specialist")
+
+# Computer Vision
+st.write("- Computer Vision Engineer")
+st.write("- AI Imaging Specialist")
+st.write("- Autonomous Systems Developer")
+
+# Large Language Models (LLMs)
+st.write("- LLM Engineer")
+st.write("- Prompt Engineer")
+st.write("- AI Research Engineer")
+
+# Prompt Engineering
+st.write("- Prompt Engineer")
+st.write("- AI Application Specialist")
+st.write("- LLM Consultant")
+
+# Generative AI
+st.write("- Generative AI Engineer")
+st.write("- Creative AI Developer")
+st.write("- AI Innovation Specialist")
+
+# Recommendation Systems
+st.write("- Recommendation System Engineer")
+st.write("- Data Scientist")
+st.write("- Personalization Engineer")
+
+# AI Ethics & Governance
+st.write("- Responsible AI Specialist")
+st.write("- AI Policy Analyst")
+st.write("- Ethical AI Consultant")
+
+# Amazon Web Services (AWS)
+st.write("- Cloud Engineer")
+st.write("- Solutions Architect")
+st.write("- DevOps Engineer")
+
+# Microsoft Azure
+st.write("- Azure Engineer")
+st.write("- Cloud Administrator")
+st.write("- Cloud Solutions Consultant")
+
+# Google Cloud Platform (GCP)
+st.write("- GCP Engineer")
+st.write("- Cloud Infrastructure Specialist")
+st.write("- Cloud Developer")
+
+# Serverless Architecture
+st.write("- Serverless Developer")
+st.write("- Cloud Backend Engineer")
+st.write("- Solutions Architect")
+
+# Cloud Monitoring (Prometheus, Grafana)
+st.write("- Site Reliability Engineer")
+st.write("- Monitoring Specialist")
+st.write("- DevOps Engineer")
+
+# Cloud Networking
+st.write("- Cloud Network Engineer")
+st.write("- Cloud Security Engineer")
+st.write("- Infrastructure Architect")
+
+# Edge Computing
+st.write("- Edge Developer")
+st.write("- IoT Systems Engineer")
+st.write("- Embedded Cloud Engineer")
+
+# Cloud Storage Solutions
+st.write("- Cloud Storage Engineer")
+st.write("- Data Infrastructure Engineer")
+st.write("- Cloud Operations Specialist")
+
+# Cloud Security
+st.write("- Cloud Security Engineer")
+st.write("- Security Analyst")
+st.write("- IAM Specialist")
+
+# Docker
+st.write("- DevOps Engineer")
+st.write("- Containerization Specialist")
+st.write("- Infrastructure Engineer")
+
+# Kubernetes
+st.write("- Kubernetes Engineer")
+st.write("- DevOps Engineer")
+st.write("- Cloud Orchestrator")
+
+# Terraform
+st.write("- Infrastructure Engineer")
+st.write("- DevOps Specialist")
+st.write("- IaC Consultant")
+
+# CI/CD Pipelines (GitHub Actions, GitLab CI/CD)
+st.write("- DevOps Engineer")
+st.write("- CI/CD Engineer")
+st.write("- Automation Specialist")
+
+# Infrastructure as Code (IaC)
+st.write("- IaC Engineer")
+st.write("- Cloud Automation Engineer")
+st.write("- DevOps Consultant")
+
+# Ansible
+st.write("- Automation Engineer")
+st.write("- Configuration Manager")
+st.write("- DevOps Specialist")
+
+# Jenkins
+st.write("- CI/CD Engineer")
+st.write("- DevOps Engineer")
+st.write("- Build Engineer")
+
+# GitOps
+st.write("- GitOps Engineer")
+st.write("- Cloud Developer")
+st.write("- Infrastructure DevOps Engineer")
+
+# ArgoCD
+st.write("- DevOps Engineer")
+st.write("- GitOps Engineer")
+st.write("- Deployment Automation Specialist")
+
+# DevSecOps
+st.write("- DevSecOps Engineer")
+st.write("- Security Automation Specialist")
+st.write("- Cloud Security Developer")
+
+# Identity & Access Management (IAM)
+st.write("- IAM Engineer")
+st.write("- Security Analyst")
+st.write("- Access Governance Specialist")
+
+# Penetration Testing
+st.write("- Penetration Tester")
+st.write("- Security Consultant")
+st.write("- Vulnerability Analyst")
+
+# Zero Trust Architecture
+st.write("- Security Architect")
+st.write("- Zero Trust Engineer")
+st.write("- Network Security Consultant")
+
+# Threat Intelligence
+st.write("- Threat Intelligence Analyst")
+st.write("- Cybersecurity Analyst")
+st.write("- Security Researcher")
+
+# Secure Coding Practices
+st.write("- Security Software Engineer")
+st.write("- Application Security Analyst")
+st.write("- Code Auditor")
+
+# Vulnerability Assessment
+st.write("- Security Analyst")
+st.write("- Risk Assessor")
+st.write("- Vulnerability Management Specialist")
+
+# Red Teaming
+st.write("- Red Team Specialist")
+st.write("- Offensive Security Engineer")
+st.write("- Security Analyst")
+
+# SOC Operations
+st.write("- SOC Analyst")
+st.write("- Security Operations Engineer")
+st.write("- Incident Response Specialist")
+
+# Blockchain Security
+st.write("- Blockchain Security Engineer")
+st.write("- Smart Contract Auditor")
+st.write("- Crypto Security Analyst")
+
+# Application Security
+st.write("- AppSec Engineer")
+st.write("- Secure Software Developer")
+st.write("- Security Compliance Analyst")
+
 
         st.markdown("### 🔧 Skill Gaps Identified")
         st.write("- Cloud Computing (AWS/GCP)")
