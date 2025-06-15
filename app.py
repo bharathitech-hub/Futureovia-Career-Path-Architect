@@ -431,6 +431,7 @@ st.write("- Technical Associate")
 st.write("- Software Developer")
 st.write("- Full Stack Developer")
 st.write("- Technical Associate")
+
 # Artificial Intelligence
 st.write("- AI Engineer")
 st.write("- AI Product Analyst")
