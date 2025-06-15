@@ -60,6 +60,7 @@ st.markdown("### 💡 Select Your Current Skills")
 
 skills = st.multiselect(
     "Choose the technical skills you already have:",
+    [
     "AI/ML Model Deployment", "Agile", "Android SDK", "Angular", "AWS", "Azure", "BigQuery", "Blockchain",
     "Bootstrap", "CI/CD", "CSS", "Computer Vision", "Dart", "Data Cleaning", "Data Engineering", "Data Mining",
     "Data Visualization", "Deep Learning", "ETL Tools", "Excel", "Express.js", "Figma", "Firebase", "Flutter",
@@ -71,8 +72,9 @@ skills = st.multiselect(
     "Seaborn", "Sentiment Analysis", "Shell Scripting", "Software Testing", "Solutions Architecture", "Streamlit",
     "Swift", "Tableau", "Tailwind CSS", "TensorFlow", "Time Series Analysis", "Transformers", "TypeScript", "Vue.js",
     "Web3", "Wireshark"
-
+    ]
 )
+
 # Show Recommendations
 if st.button("🔍 Show My Career Path"):
     if not name or not skills:
