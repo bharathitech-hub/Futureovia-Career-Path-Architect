@@ -15,6 +15,7 @@ experience_level = st.selectbox("Your Experience Level", ["Fresher", "0-1 Years"
 
 education = st.selectbox(
     "Select Your Education Qualification",
+    [
         "B.Sc Computer Science",
         "B.Sc Information Technology",
         "B.Sc Data Science",
@@ -49,8 +50,8 @@ education = st.selectbox(
         "PG Diploma in Data Analytics",
         "PG Diploma in Cybersecurity",
         "Other (Specify Below)",
-)
-
+    ]
+)   
 if education == "Other (Specify Below)":
     education = st.text_input("Please specify your qualification")
 
