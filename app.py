@@ -126,8 +126,7 @@ skill_data = {
             "Resolve conflicts and rebase",
             "Collaborate using GitHub or GitLab"
         ]
-    }
-}
+    },
     "HTML": {
         "roles": ["Frontend Developer", "Web Designer", "Email Developer"],
         "gap": ["Semantic Tags", "Forms", "Accessibility"],
