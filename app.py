@@ -40,3 +40,25 @@ if selected_skill:
             st.markdown('#### 📘 Suggested Learning Path')
             for i, step in enumerate(role_to_learning.get(role, ['Learning path not available.']), 1):
                 st.write(f"{i}. {step}")
+# 🚀 Final Feedback Section
+st.markdown("---")
+st.markdown("## 🗣️ Share Your Feedback")
+
+st.markdown("We’d love to hear your thoughts about Futureovia. Your feedback helps us improve and grow!")
+
+# Feedback options
+feedback_choice = st.radio(
+    "How would you rate your overall experience?",
+    ("🌟 Excellent", "👍 Good", "😐 Average", "👎 Needs Improvement", "✍️ I have a suggestion"),
+    index=None
+)
+
+# Optional comment input
+additional_feedback = st.text_area("Any specific suggestions or comments?", placeholder="Type here...")
+
+# Submit button
+if st.button("📩 Submit Feedback"):
+    st.success("✅ Thank you for helping us make Futureovia better!")
+    # You can save feedback to a file or print to console (for testing)
+    print("Overall Feedback:", feedback_choice)
+    print("Comments:", additional_feedback)
