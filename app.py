@@ -83,7 +83,7 @@ career_paths = {
     "AI Engineer": [
 
     ],
-    "ML Platform Engineer"": [
+    "ML Platform Engineer": [
         "Master ML model lifecycle: versioning, packaging, and serving (MLflow, TFX)",
         "Learn CI/CD for ML with Jenkins, GitHub Actions, or Kubeflow Pipelines",
         "Use Docker, Kubernetes, and cloud platforms (AWS/GCP/Azure) for scalable deployment"
