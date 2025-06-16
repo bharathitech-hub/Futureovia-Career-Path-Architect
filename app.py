@@ -40,6 +40,8 @@ if selected_skill:
             st.markdown('#### 📘 Suggested Learning Path')
             for i, step in enumerate(role_to_learning.get(role, ['Learning path not available.']), 1):
                 st.write(f"{i}. {step}")
+
+
 # 🚀 Final Feedback Section
 st.markdown("---")
 st.markdown("## 🗣️ Share Your Feedback")
