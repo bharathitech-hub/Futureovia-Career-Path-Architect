@@ -19,10 +19,11 @@ selected_skill = st.selectbox('Select a skill:', list(skill_to_roles.keys()))
 if selected_skill:
     st.markdown(f"### 🎯 Roles Matching Skill: {selected_skill}")
     for role in skill_to_roles.get(selected_skill, []):
-        with st.expander(f"🔧 {role}"):
-            st.markdown('#### Skill Gaps Identified:')
-            for gap in role_to_gaps.get(role, ['No gap data found.']):
-                st.write(f"- {gap}")
-            with st.expander('📘 Suggested Learning Path'):
-                for i, step in enumerate(role_to_learning.get(role, ['Learning path not available.']), 1):
-                    st.write(f"{i}. {step}")
+        if st.button(f"Show details for {role}"):
+    st.markdown('#### Skill Gaps Identified:')
+    for gap in role_to_gaps.get(role, ['No gap data found.']):
+        st.write(f"- {gap}")
+
+    st.markdown("### 📘 Suggested Learning Path")
+    for i, step in enumerate(role_to_learning.get(role, ['Learning path not found.'])):
+        st.write(f"{i + 1}. {step}")
