@@ -25,4 +25,4 @@ if selected_skill:
                 st.write(f"- {gap}")
             st.markdown('#### 📘 Suggested Learning Path')
             for i, step in enumerate(role_to_learning.get(role, ['Learning path not available.']), 1):
-            st.write(f"{i}. {step}")
+                st.write(f"{i}. {step}")
