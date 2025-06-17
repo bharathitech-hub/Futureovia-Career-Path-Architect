@@ -48,10 +48,12 @@ skill_data = {
                 "Train models with Scikit-learn",
                 "Deploy models using Flask or FastAPI",
                 "Explore MLflow for tracking"
-            ]
+                 ]
+             }
         }
     }
-}
+}    
+ 
    "JavaScript": {
     "roles": ["Frontend Developer", "Full Stack Developer", "Web App Engineer"],
     "role_details": {
