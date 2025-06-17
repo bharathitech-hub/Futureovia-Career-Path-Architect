@@ -54,7 +54,7 @@ skill_data = {
     }
 }    
  
-   "JavaScript": {
+        "JavaScript": {
     "roles": ["Frontend Developer", "Full Stack Developer", "Web App Engineer"],
     "role_details": {
         "Frontend Developer": {
