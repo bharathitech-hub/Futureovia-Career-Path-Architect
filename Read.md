@@ -86,6 +86,6 @@ Focused on building career-tech systems that deliver clarity, alignment, and hig
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the MIT License.
