@@ -4,7 +4,7 @@ Futureovia is an intelligent career design system that enables students, job see
 
 ---
 
-## 🚀 Executive Summary
+##  Executive Summary
 
 Futureovia acts as a **personalized career foresight engine**, helping users:
 - Discover optimal career directions based on interest and domain alignment
@@ -16,7 +16,7 @@ Built with user clarity and job-market alignment at its core, Futureovia helps i
 
 ---
 
-## 🔍 Problem Statement
+##  Problem Statement
 
 Tech aspirants often face:
 - Overwhelming domain choices
@@ -27,7 +27,7 @@ Tech aspirants often face:
 
 ---
 
-## 💡 Business Impact
+##  Business Impact
 
 - **70% reduction in exploration time** by guiding users through domain-role matches.
 - **89% improvement in role-fit clarity** through precision-aligned career recommendations.
@@ -36,7 +36,7 @@ Tech aspirants often face:
 
 ---
 
-## 🧠 Who It's For
+##  Who It's For
 
 - **Students** seeking clarity on which domain or tech path to pursue.
 - **Freshers and job switchers** looking to identify roles that align with their interests and potential.
@@ -44,7 +44,7 @@ Tech aspirants often face:
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠 Technology Stack
 
 - **Frontend**: Streamlit (Python)
 - **Data Engine**: Python dictionaries and domain-role mapping logic
@@ -53,7 +53,7 @@ Tech aspirants often face:
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 - **Interest-to-Role Mapping**: Converts user preferences into structured role recommendations.
 - **100+ Role Suggestions**: Curated across 30+ modern domains like AI, Cloud, Product, Cybersecurity, DevOps, and more.
@@ -62,13 +62,15 @@ Tech aspirants often face:
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
+https://futureovia-career-path-architect-cqwnchr3u9n3iqbuhzvmgr.streamlit.app/
+ 
 
-(*Insert live demo link here once deployed*)
+
 
 ---
 
-## 📈 Roadmap & Next Steps
+##  Roadmap & Next Steps
 
 - Add user login and path tracking across sessions
 - Integrate salary benchmarking and demand forecasting
@@ -77,7 +79,7 @@ Tech aspirants often face:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Bharathi Tankala**  
 Focused on building career-tech systems that deliver clarity, alignment, and high-precision decision-making for the next generation of tech talent.
