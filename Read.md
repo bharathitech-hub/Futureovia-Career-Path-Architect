@@ -44,7 +44,7 @@ Tech aspirants often face:
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 - **Frontend**: Streamlit (Python)
 - **Data Engine**: Python dictionaries and domain-role mapping logic
